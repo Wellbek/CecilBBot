@@ -49,4 +49,5 @@ client.on('message', message =>{
     }
 });
 
+//Use your own Discord Bot Token
 client.login('OTA0NzcxMDkzNTIzNDc2NDkw.YYAXvg.v9VRoCAlpBdtwQzqdVJDdOMt7OM');
